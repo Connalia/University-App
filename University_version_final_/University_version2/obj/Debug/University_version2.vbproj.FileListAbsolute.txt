@@ -1,0 +1,325 @@
+C:\Users\admin\source\repos\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\admin\source\repos\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\admin\source\repos\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\p3150092\Desktop\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_1\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\admin\source\repos\University_version2_1\University_version2\bin\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_1\University_version2\bin\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_1\University_version2\bin\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_1\University_version2\obj\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+C:\Users\admin\source\repos\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2_2\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2_3\University_version2\University_version2\obj\Debug\University_version2.pdb
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.exe.config
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.exe
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.pdb
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.xml
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.cache
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.exe
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.xml
+E:\Βασεις_Δεδομενων_εργασία\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\admin\source\repos\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.exe.config
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\bin\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Admin.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Base.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_University.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Form1.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_City.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_University.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.Resources.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.WebBrowser.resources
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.exe
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.xml
+C:\Users\p3150092\Desktop\University_version2_4\University_version2\University_version2\obj\Debug\University_version2.pdb
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Job.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Place.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+C:\Users\p3150092\Desktop\University_version2\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\bin\Debug\University_version2.exe.config
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\bin\Debug\University_version2.exe
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\bin\Debug\University_version2.pdb
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\bin\Debug\University_version2.xml
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.vbprojResolveAssemblyReference.cache
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Admin.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.DepartmentInfo.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Base.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Depart.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Depart_MoreInfo.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Extra.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Grad.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Job.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Place.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Scien.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_University.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_University_Sect.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Edit_Variety.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Form1.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Info_by_City.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Info_by_Jobs.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Info_by_Scien.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Info_by_University.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Info_by_University_2.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.Resources.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.WebBrowser.resources
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.vbproj.GenerateResource.Cache
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.vbproj.CoreCompileInputs.cache
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.exe
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.xml
+c:\My_Work\Οικονομικο Πανεπιστημιο Αθηνας Πληροφορικη\6o_εξαμηνο2017-18_(τριτο_ετος)\ΒΑΣΕΙΣ ΔΕΔΟΜΕΝΩΝ\εργασία καπέτης\University_version_final_\University_version2\obj\Debug\University_version2.pdb

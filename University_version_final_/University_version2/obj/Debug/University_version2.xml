@@ -1,0 +1,501 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+University_version2
+</name>
+</assembly>
+<members>
+<member name="T:University_version2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:University_version2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:University_version2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:University_version2.My.Resources.Resources.Athens_University_of_Economics_and_Business__logo_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.baseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.departmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_extra_coursesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_indicative_employment_placesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_postgraduateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_profession_jobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_professional_rightsNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_scientific_fieldDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.directionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.extra_coursesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.indicative_employment_placesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.postgraduateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.profession_jobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.professional_rightsNoteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.school_sectorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.scientific_fieldDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.universityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.variety_universityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.baseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.departmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_extra_coursesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_indicative_employment_placesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_postgraduateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_profession_jobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_professional_rightsNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_scientific_fieldRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.directionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.extra_coursesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.indicative_employment_placesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.postgraduateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.profession_jobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.professional_rightsNoteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.school_sectorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.scientific_fieldRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.universityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.variety_universityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.baseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.departmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_extra_coursesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_indicative_employment_placesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_postgraduateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_profession_jobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_professional_rightsNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.department_scientific_fieldRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.directionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.extra_coursesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.indicative_employment_placesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.postgraduateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.profession_jobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.professional_rightsNoteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.school_sectorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.scientific_fieldRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.universityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet.variety_universityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.baseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.departmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.department_extra_coursesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.department_indicative_employment_placesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.department_postgraduateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.department_profession_jobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.department_professional_rightsNoteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.department_scientific_fieldTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.directionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.extra_coursesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.indicative_employment_placesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.postgraduateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.profession_jobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.professional_rightsNoteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.school_sectorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.scientific_fieldTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.universityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.variety_universityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(University_version2.p3150092DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(University_version2.p3150092DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(University_version2.p3150092DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.UpdateAll(University_version2.p3150092DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1.customerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1.customerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1.customerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1TableAdapters.customerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(University_version2.p3150092DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(University_version2.p3150092DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(University_version2.p3150092DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.UpdateAll(University_version2.p3150092DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:University_version2.p3150092DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

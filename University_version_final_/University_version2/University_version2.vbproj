@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84076D95-3A7E-462E-913D-287AD03B4BC0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>University_version2.My.MyApplication</StartupObject>
+    <RootNamespace>University_version2</RootNamespace>
+    <AssemblyName>University_version2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>University_version2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>University_version2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentInfo.Designer.vb">
+      <DependentUpon>DepartmentInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Base.Designer.vb">
+      <DependentUpon>Edit_Base.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Base.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Depart.Designer.vb">
+      <DependentUpon>Edit_Depart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Depart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Depart_MoreInfo.Designer.vb">
+      <DependentUpon>Edit_Depart_MoreInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Depart_MoreInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Extra.Designer.vb">
+      <DependentUpon>Edit_Extra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Extra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Grad.Designer.vb">
+      <DependentUpon>Edit_Grad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Grad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Job.Designer.vb">
+      <DependentUpon>Edit_Job.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Job.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Place.Designer.vb">
+      <DependentUpon>Edit_Place.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Place.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Scien.Designer.vb">
+      <DependentUpon>Edit_Scien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Scien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_University.Designer.vb">
+      <DependentUpon>Edit_University.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_University.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_University_Sect.Designer.vb">
+      <DependentUpon>Edit_University_Sect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_University_Sect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Variety.Designer.vb">
+      <DependentUpon>Edit_Variety.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Variety.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_by_City.Designer.vb">
+      <DependentUpon>Info_by_City.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Info_by_City.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_by_Jobs.Designer.vb">
+      <DependentUpon>Info_by_Jobs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Info_by_Jobs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_by_Scien.Designer.vb">
+      <DependentUpon>Info_by_Scien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Info_by_Scien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_by_University.Designer.vb">
+      <DependentUpon>Info_by_University.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Info_by_University.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_by_University_2.Designer.vb">
+      <DependentUpon>Info_by_University_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Info_by_University_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="p3150092DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>p3150092DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="p3150092DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>p3150092DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="WebBrowser.Designer.vb">
+      <DependentUpon>WebBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WebBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentInfo.resx">
+      <DependentUpon>DepartmentInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Base.resx">
+      <DependentUpon>Edit_Base.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Depart.resx">
+      <DependentUpon>Edit_Depart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Depart_MoreInfo.resx">
+      <DependentUpon>Edit_Depart_MoreInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Extra.resx">
+      <DependentUpon>Edit_Extra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Grad.resx">
+      <DependentUpon>Edit_Grad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Job.resx">
+      <DependentUpon>Edit_Job.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Place.resx">
+      <DependentUpon>Edit_Place.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Scien.resx">
+      <DependentUpon>Edit_Scien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_University.resx">
+      <DependentUpon>Edit_University.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_University_Sect.resx">
+      <DependentUpon>Edit_University_Sect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Variety.resx">
+      <DependentUpon>Edit_Variety.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_by_City.resx">
+      <DependentUpon>Info_by_City.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_by_Jobs.resx">
+      <DependentUpon>Info_by_Jobs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_by_Scien.resx">
+      <DependentUpon>Info_by_Scien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_by_University.resx">
+      <DependentUpon>Info_by_University.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_by_University_2.resx">
+      <DependentUpon>Info_by_University_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebBrowser.resx">
+      <DependentUpon>WebBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="p3150092DataSet.xsc">
+      <DependentUpon>p3150092DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="p3150092DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>p3150092DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="p3150092DataSet.xss">
+      <DependentUpon>p3150092DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="p3150092DataSet1.xsc">
+      <DependentUpon>p3150092DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="p3150092DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>p3150092DataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="p3150092DataSet1.xss">
+      <DependentUpon>p3150092DataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Athens_University_of_Economics_and_Business_%28logo%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
